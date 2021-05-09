@@ -90,23 +90,26 @@ button{
     border: solid;
     background-color: rgba(231, 85, 41, 0.719);
     color: white;
-    padding: 20px;
+    position: absolute;
+    right: 240px;
+    padding: 30px;
     
-    margin-right: -250px;
-    margin-top: -150px;
+    
 
 }
 
 .p5{
     float:right;
-    margin-right: 500px;
-    margin-top: -30px;
+    margin-right: 450px;
+    margin-top: -70px;
     margin-left: 40px;
-    padding: 20px;
+    
 }
 #copy{
     float: left;
     text-align: center;
     margin-left: 600px;
-    
+    position: absolute;
+    bottom: -1555px;
+    padding-bottom: 200px;
 }
