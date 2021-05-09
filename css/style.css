@@ -1,0 +1,112 @@
+
+
+header div img{
+    float: left;
+
+margin-bottom: 300px;
+
+}
+header div{
+    float: left;
+    margin-top: 30px;
+    margin-left: 150px;
+
+}
+
+header div  h1{
+    font-family: 'Dancing Script', cursive;
+    display: inline;
+   
+}
+
+
+header div  h1 p{
+    
+}
+.one{
+float: right;
+margin-right: 150px;
+}
+
+
+.left {
+   float: left;
+   margin-left: 150px;
+   margin-top: -100px;
+}
+section article div h1{
+    font-family: 'Anton', sans-serif;
+
+}
+section article div h1 h3{
+    color: azure;
+}
+#img{
+    background-image: url('https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true');
+    background-repeat: repeat-x;
+     
+}
+
+#img2{
+    width: 88%;
+}
+ p{
+
+
+line-height: 20px;
+}
+.checkboxa{
+   
+    margin-left: 150px;
+    position: absolute;
+    bottom: 80px;
+    left: 24px;
+}
+.checkboxb{
+    float:right;
+    margin-right: 150px;
+    position: absolute;
+    bottom: 81px;
+    right: 95px;
+
+}
+.div{
+position: relative;
+   
+
+}
+
+#img3 {
+    margin-left: 145px;
+}
+#img5{
+    float: left;
+    margin-left: 150px;
+    
+
+}
+button{
+    float: right;
+    border: solid;
+    background-color: rgba(231, 85, 41, 0.719);
+    color: white;
+    padding: 20px;
+    
+    margin-right: -250px;
+    margin-top: -150px;
+
+}
+
+.p5{
+    float:right;
+    margin-right: 500px;
+    margin-top: -30px;
+    margin-left: 40px;
+    padding: 20px;
+}
+#copy{
+    float: left;
+    text-align: center;
+    margin-left: 600px;
+    
+}
