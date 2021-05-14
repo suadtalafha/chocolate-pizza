@@ -16,13 +16,19 @@ header div{
 header div  h1{
     font-family: 'Dancing Script', cursive;
     display: inline;
-   
+    font-size: 26px;
+    margin-left: 19px;
+}
+h5{
+    font-size: 11px;
+    width: 238px;
+    color: gray;
+    margin-top: 8px;
+    margin-left: 56px;
 }
 
 
-header div  h1 p{
-    
-}
+
 .one{
 float: right;
 margin-right: 150px;
@@ -32,42 +38,62 @@ margin-right: 150px;
 .left {
    float: left;
    margin-left: 150px;
-   margin-top: -100px;
+   margin-top: -136px;
 }
 section article div h1{
     font-family: 'Anton', sans-serif;
+    font-size: 39px;
 
 }
+
+
 section article div h1 h3{
-    color: azure;
+    color: lightgray;
+    margin-bottom: 20px;
 }
-#img{
-    background-image: url('https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true');
-    background-repeat: repeat-x;
-     
-}
+
 
 #img2{
-    width: 88%;
+    width: 1049px;
 }
- p{
+ .left p{
+    line-height: 33px;
+    width: 1049px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+    color: gray;
+    
+    font-size: 20px;
+ }
 
 
-line-height: 20px;
+#e{
+    position: absolute;
+    margin-top: 142px;
+  
+    margin-left: -316px;
+    width: 1111px;
 }
+
 .checkboxa{
    
     margin-left: 150px;
     position: absolute;
     bottom: 80px;
-    left: 24px;
+    left: 106px;
+    line-height: 33px;
+    font-size: 20px;
+    color: rgb(61, 57, 57);
 }
 .checkboxb{
-    float:right;
+    float: right;
     margin-right: 150px;
     position: absolute;
     bottom: 81px;
     right: 95px;
+    line-height: 33px;
+    font-size: 20px;
+    color: rgb(61, 57, 57);
 
 }
 .div{
@@ -82,7 +108,7 @@ position: relative;
 #img5{
     float: left;
     margin-left: 150px;
-    
+    margin-top: 53px;
 
 }
 button{
@@ -94,22 +120,31 @@ button{
     right: 240px;
     padding: 30px;
     
-    
+    margin-top: 57px;
 
 }
 
 .p5{
-    float:right;
-    margin-right: 450px;
-    margin-top: -70px;
-    margin-left: 40px;
-    
+    float: right;
+    margin-right: 468px;
+    margin-top: 9px;
 }
+
 #copy{
     float: left;
     text-align: center;
-    margin-left: 600px;
-    position: absolute;
-    bottom: -1555px;
+    margin-left: 360px;
+   
     padding-bottom: 200px;
+    margin-top: 129px;
+    color: gray
+}
+.p5 h2{
+    font-size: 20px;
+    margin-bottom: 14px;
+    color: #565555;
+    font-style: revert;
+}
+footer{
+    height: 500px;
 }
